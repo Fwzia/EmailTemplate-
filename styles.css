@@ -1,0 +1,92 @@
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+body {
+    font-family: 'Catamaran', sans-serif;
+    background-color: #d8dbdb;
+    font-size: 18px;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2%;
+    color: #565859;
+}
+
+#wrapper {
+    background: #f6faff;
+}
+
+img {
+    max-width: 100%;
+}
+
+header {
+    width: 98%;
+}
+
+#logo {
+    float: left;
+    max-width: 290px;
+    margin: 1% 0 0 2%;
+}
+
+#callout {
+    float: right;
+    margin: 3% 3% 2% 0;
+}
+
+.social {
+    float: right;
+    list-style-type: none;
+    margin-top: 3%;
+}
+
+.banner {
+    margin-bottom: 3%;
+}
+
+.one_col {
+    padding: 2%;
+}
+
+h1 {
+    letter-spacing: 1%;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+.btn_holder {
+    float: right;
+    margin: 0 2% 4% 0;
+}
+
+.btn {
+    float: right;
+    background: #303840;
+    color: #f6faff;
+    text-decoration: none;
+    font-weight: 800;
+    padding: 8px 12px;
+    border-radius: 8px;
+}
+
+.btn:hover {
+    background: #58585A;
+}
+
+.line {
+    clear: both;
+    height: 2px;
+    background-color: #e3e9e9;
+    margin: 4% auto;
+    width: 96%;
+}
+
+.contact {
+    text-align: center;
+    padding-bottom: 3%;
+}
